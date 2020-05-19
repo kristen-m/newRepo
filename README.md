@@ -1,3 +1,3 @@
-This is my first repository and my first commit!
+#About me
 
-I'm making changes to it now
+This is my about me project. It isn't *everything* about me, but it's a start!
